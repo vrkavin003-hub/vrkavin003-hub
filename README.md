@@ -224,8 +224,8 @@ const kavin = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-vrkavin003%40gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:vrkavin003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavin%20V-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin)
-[![GitHub](https://img.shields.io/badge/GitHub-kavin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kavin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavin%20V-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BW83X2oAFQ4mGwItKHGjNow%3D%3D)
+[![GitHub](https://img.shields.io/badge/GitHub-kavin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrkavin003-hub)
 [![Phone](https://img.shields.io/badge/Phone-9597690303-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919597690303)
 
 </div>
