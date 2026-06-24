@@ -156,9 +156,10 @@ const kavin = {
 
 | Project | Stack | Highlights |
 |---------|-------|-----------|
-| **[Razk Automation Attendance & HRMS App](https://github.com/kavin)** | React • Vite • Tailwind • Express • MongoDB • JWT • Capacitor | Full-stack attendance system with Admin/HR/Employee dashboards • GPS location capture • Leave/permission workflows • CSV/PDF reports • Mobile app with Capacitor |
-| **[HYA Tech Company Website](https://github.com/kavin)** | React.js • Bootstrap • JavaScript • GSAP • AOS • Leaflet | Responsive corporate site with 6 sections • Smooth animations & transitions • Interactive project showcases • Map & contact integrations • Production-ready deployment |
-| **[IoT-Based Smart Energy Monitoring System](https://github.com/kavin)** | IoT • Python • Data Monitoring | Real-time electricity tracking • Usage analysis & alerts • Data visualization dashboard • Practical IoT implementation |
+| **[Razk Automation Attendance & HRMS App](https://razk-eta.vercel.app)** | React • Vite • Tailwind • Express • MongoDB • JWT • Capacitor | Full-stack attendance system with Admin/HR/Employee dashboards • GPS location capture • Leave/permission workflows • CSV/PDF reports • Mobile app with Capacitor |
+| **[HYA Tech Company Website](https://hya-tech-website-ptze.vercel.app/)** | React.js • Bootstrap • JavaScript • GSAP • AOS • Leaflet | Responsive corporate site with 6 sections • Smooth animations & transitions • Interactive project showcases • Map & contact integrations • Production-ready deployment |
+| **[IoT-Based Smart Energy Monitoring System](https://kavin-portfolio-omega.vercel.app/)** | React.js • Tailwind CSS • JavaScript • Framer Motion • Vite • Responsive UI | Premium personal portfolio website showcasing skills, projects, and developer profile • Smooth animations & modern transitions • Project cards with GitHub/live links • Resume and contact integration • Fully responsive and production-ready deployment |
+| **[IoT-Based Smart Energy Monitoring System](https://gladecloud.in/25_IOT_SmartMeter.aspx)** | IoT • Python • Data Monitoring | Real-time electricity tracking • Usage analysis & alerts • Data visualization dashboard • Practical IoT implementation |
 
 </div>
 
