@@ -188,7 +188,7 @@ const kavin = {
 
 | Degree | Institution | Year | Status |
 |--------|-------------|------|--------|
-| **B.E. Computer Science & Engineering** | Sethu Institute of Technology | 2022-2026 | In Progress |
+| **B.E. Computer Science & Engineering** | Sethu Institute of Technology | 2022-2026 | Graduated |
 
 </div>
 
