@@ -102,7 +102,7 @@ const kavin = {
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vrkavin003-hub&theme=tokyonight&hide_border=true" />
+  <img src="(https://github-readme-achievements.herokuapp.com/?user=vrkavin003-hub)" />
 </p>
 
 
