@@ -120,11 +120,11 @@ const kavin = {
 
 
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vrkavin003-hub&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy-git-master-kingofthestone.vercel.app/?username=vrkavin003-hub&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
