@@ -120,11 +120,11 @@ const kavin = {
 
 
 
-## 🏆 Achievements
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vrkavin003-hub&theme=tokyonight&cache_seconds=86400" />
+![snake animation](https://raw.githubusercontent.com/vrkavin003-hub/vrkavin003-hub/output/github-contribution-grid-snake.svg)
 
 </div>
 
