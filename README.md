@@ -90,25 +90,19 @@ const kavin = {
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrkavin003-hub&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vrkavin003-hub&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrkavin003-hub&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrkavin003-hub&layout=compact&theme=tokyonight" />
-</p>
----
 
 ## 🔥 Contribution Streak
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vrkavin003-hub&theme=tokyonight&hide_border=true" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vrkavin003-hub&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10&mode=daily&short_numbers=false&type=svg)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
