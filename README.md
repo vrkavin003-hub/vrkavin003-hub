@@ -93,9 +93,11 @@ const kavin = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vrkavin003-hub&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrkavin003-hub&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vrkavin003-hub&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vrkavin003-hub&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
 
 ## 🔥 Contribution Streak
 
