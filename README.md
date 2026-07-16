@@ -122,7 +122,7 @@ const kavin = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vrkavin003-hub&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/vrkavin003-hub)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=vrkavin003-hub&theme=tokyonight)
 
 </div>
 ---
