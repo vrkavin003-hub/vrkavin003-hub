@@ -119,12 +119,11 @@ const kavin = {
 ---
 
 
-
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vrkavin003-hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="500"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vrkavin003-hub&theme=tokyonight&cache_seconds=86400" />
 
 </div>
 
